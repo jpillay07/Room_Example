@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Room Example</string>
+    <string name="fab_main_description">Add new note</string>
+    <string name="add_note_edit_text_title">Title</string>
+    <string name="add_note_edit_text_description">Description</string>
+    <string name="add_note_text_view_priority">Priority</string>
+    <string name="add_note_menu_save">Save</string>
+    <string name="menu_delete_all_notes">Delete All Notes</string>
 </resources>
